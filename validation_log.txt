@@ -1,3 +1,5 @@
 2024-10-14 19:31:21.133781 - Data validation failed with error: [Errno 2] No such file or directory: 'data.csv'
 2024-10-14 19:35:13.026513 - Data loaded successfully.
 2024-10-14 19:35:13.036174 - Data validation failed with error: 'bool' object has no attribute 'all'
+2024-10-14 14:25:17.147774 - Data loaded successfully.
+2024-10-14 14:25:17.152420 - Data validation failed with error: 'bool' object has no attribute 'all'
