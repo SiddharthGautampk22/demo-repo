@@ -1,8 +1,4 @@
-def print_name(a):
-    print(a)
-def main():
-    a = 'Siddharth'
-    print_name(a)
-
-if __name__ == '__main__':
-    main()
+import pandas as pd
+data_dict = {'A' : [1,2,3,4], 'B' : [5,6,7,8]}
+df = pd.DataFrame(data_dict)
+print(df)
